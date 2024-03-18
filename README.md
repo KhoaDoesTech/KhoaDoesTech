@@ -15,12 +15,16 @@ Currently, I am seeking opportunities to enhance my skills as a full-stack devel
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhoaDoesTech&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=KhoaDoesTech&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KhoaDoesTech&theme=dracula&hide_border=true)<br/>
+<div align="center">
+  <a href="#">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KhoaDoesTech&show_icons=true&theme=dracula&hide_border=true" />
+  </a>
+  <a href="#">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhoaDoesTech&layout=compact&langs_count=8&card_width=320&hide_border=true&show_icons=true&theme=dracula" />
+  </a>
+</div>
 
 ### ✍️ Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KhoaDoesTech&limit=5&theme=dracula&combine_all_yearly_contributions=true)
