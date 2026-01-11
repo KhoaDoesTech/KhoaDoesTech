@@ -109,13 +109,13 @@ const khoa: Developer = {
 
 <p>
   <a href="https://linkedin.com/in/do-anh-khoa">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn_Profile-0077B5?style=for-the-badge&logoColor=white&labelColor=282A36"/>
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=282A36"/>
   </a>
   <a href="https://youtube.com/@KhoaDoesTech">
-    <img src="https://img.shields.io/badge/📺_YouTube_Channel-FF0000?style=for-the-badge&logoColor=white&labelColor=282A36"/>
+    <img src="https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logoColor=white&labelColor=282A36"/>
   </a>
   <a href="https://github.com/KhoaDoesTech">
-    <img src="https://img.shields.io/badge/💻_GitHub_Profile-BD93F9?style=for-the-badge&logoColor=white&labelColor=282A36"/>
+    <img src="https://img.shields.io/badge/💻_GitHub-BD93F9?style=for-the-badge&logoColor=white&labelColor=282A36"/>
   </a>
 </p>
 
