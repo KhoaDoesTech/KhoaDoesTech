@@ -81,8 +81,8 @@ const khoa: Developer = {
 <div align="center">
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-beta-lyart-65.vercel.app/api/top-langs?username=KhoaDoesTech&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&text_color=F8F8F2" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats-beta-lyart-65.vercel.app/api?username=KhoaDoesTech&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhoaDoesTech&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&text_color=F8F8F2" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KhoaDoesTech&show_icons=true&theme=dracula&hide_border=true&bg_color=282A36&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KhoaDoesTech&bg_color=282A36&color=F8F8F2&line=BD93F9&point=FF79C6&area_color=BD93F9&title_color=BD93F9&area=true&hide_border=true" alt="Contribution Graph" />
