@@ -36,22 +36,33 @@ Backend-focused full-stack developer with strengths in secure identity systems, 
 <div align="center">
 
 <p><sub><b>Backend &amp; Languages</b></sub></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=golang,typescript,javascript,nodejs,nestjs,fiber,grpc,kafka&amp;perline=8&amp;theme=dark">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=golang,typescript,javascript,nodejs,nestjs,fiber,grpc,kafka&amp;perline=8&amp;theme=light" alt="Go, TypeScript, JavaScript, Node.js, NestJS, Fiber, gRPC, and Kafka">
-</picture>
+<p>
+  <img src="assets/tech/go.svg" width="32" height="32" alt="Go">&nbsp;&nbsp;
+  <img src="assets/tech/typescript.svg" width="32" height="32" alt="TypeScript">&nbsp;&nbsp;
+  <img src="assets/tech/javascript.svg" width="32" height="32" alt="JavaScript">&nbsp;&nbsp;
+  <img src="assets/tech/nodejs.svg" width="32" height="32" alt="Node.js">&nbsp;&nbsp;
+  <img src="assets/tech/nestjs.svg" width="32" height="32" alt="NestJS">&nbsp;&nbsp;
+  <img src="assets/tech/kafka.svg" width="32" height="32" alt="Apache Kafka">
+</p>
 
 <p><sub><b>Data &amp; AI</b></sub></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,gemini,chatgpt,langchain&amp;perline=7&amp;theme=dark">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,gemini,chatgpt,langchain&amp;perline=7&amp;theme=light" alt="PostgreSQL, MySQL, MongoDB, Redis, Gemini, OpenAI, and LangChain">
-</picture>
+<p>
+  <img src="assets/tech/postgresql.svg" width="32" height="32" alt="PostgreSQL">&nbsp;&nbsp;
+  <img src="assets/tech/mysql.svg" width="32" height="32" alt="MySQL">&nbsp;&nbsp;
+  <img src="assets/tech/mongodb.svg" width="32" height="32" alt="MongoDB">&nbsp;&nbsp;
+  <img src="assets/tech/redis.svg" width="32" height="32" alt="Redis">&nbsp;&nbsp;
+  <img src="assets/tech/gemini.svg" width="32" height="32" alt="Google Gemini">&nbsp;&nbsp;
+  <img src="assets/tech/langchain.svg" width="32" height="32" alt="LangChain">
+</p>
 
 <p><sub><b>Frontend &amp; Tooling</b></sub></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tanstack,docker,gitlab,playwright&amp;perline=6&amp;theme=dark">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tanstack,docker,gitlab,playwright&amp;perline=6&amp;theme=light" alt="React, Vite, TanStack Query, Docker, GitLab CI/CD, and Playwright">
-</picture>
+<p>
+  <img src="assets/tech/react.svg" width="32" height="32" alt="React">&nbsp;&nbsp;
+  <img src="assets/tech/vite.svg" width="32" height="32" alt="Vite">&nbsp;&nbsp;
+  <img src="assets/tech/tanstack.svg" width="32" height="32" alt="TanStack Query">&nbsp;&nbsp;
+  <img src="assets/tech/docker.svg" width="32" height="32" alt="Docker">&nbsp;&nbsp;
+  <img src="assets/tech/gitlab.svg" width="32" height="32" alt="GitLab">
+</p>
 
 </div>
 
@@ -63,8 +74,8 @@ Backend-focused full-stack developer with strengths in secure identity systems, 
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhoaDoesTech&amp;layout=compact&amp;langs_count=8&amp;card_width=460&amp;theme=transparent&amp;hide_border=true&amp;border_radius=18&amp;bg_color=F5FAFF&amp;title_color=2563A8&amp;text_color=243B53" alt="Most used programming languages">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KhoaDoesTech&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true&amp;border_radius=18&amp;bg_color=0B1F35&amp;title_color=8CC9FF&amp;icon_color=65B9FF&amp;text_color=E6F3FF&amp;card_width=460">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KhoaDoesTech&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true&amp;border_radius=18&amp;bg_color=F5FAFF&amp;title_color=2563A8&amp;icon_color=2F80ED&amp;text_color=243B53&amp;card_width=460" alt="GitHub statistics">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KhoaDoesTech&amp;show_icons=true&amp;include_all_commits=false&amp;theme=transparent&amp;hide_border=true&amp;border_radius=18&amp;bg_color=0B1F35&amp;title_color=8CC9FF&amp;icon_color=65B9FF&amp;text_color=E6F3FF&amp;card_width=460">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KhoaDoesTech&amp;show_icons=true&amp;include_all_commits=false&amp;theme=transparent&amp;hide_border=true&amp;border_radius=18&amp;bg_color=F5FAFF&amp;title_color=2563A8&amp;icon_color=2F80ED&amp;text_color=243B53&amp;card_width=460" alt="GitHub statistics for the current year">
   </picture>
 </p>
 
