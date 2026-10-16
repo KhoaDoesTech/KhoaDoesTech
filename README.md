@@ -27,11 +27,11 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="24" height="24" align="absmiddle" alt="Animated developer icon"> About Me
+## <img src="assets/icons/person.svg" width="24" height="24" align="absmiddle" alt=""> About Me
 
 Backend-focused full-stack developer with strengths in secure identity systems, event-driven service design and applied LLM retrieval. Experience spans an enterprise franchise platform and e-commerce products, from data model through public API. Adapts quickly to new stacks, and looking for a backend role where correctness and clear service boundaries matter.
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24" height="24" align="absmiddle" alt="Animated code icon"> Tech Stack
+## <img src="assets/icons/code.svg" width="24" height="24" align="absmiddle" alt=""> Tech Stack
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Backend-focused full-stack developer with strengths in secure identity systems, 
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" height="24" align="absmiddle" alt="Animated GitHub icon"> GitHub Activity
+## <img src="assets/icons/graph.svg" width="24" height="24" align="absmiddle" alt=""> GitHub Activity
 
 <p align="center">
   <picture>
@@ -71,13 +71,13 @@ Backend-focused full-stack developer with strengths in secure identity systems, 
 <p align="center">
   <a href="https://github.com/KhoaDoesTech">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:65B9FF/KhoaDoesTech">
-      <img width="100%" src="https://ghchart.xqsit94.in/light:2F80ED/KhoaDoesTech" alt="Live GitHub contribution activity">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KhoaDoesTech&amp;background=0B1F35&amp;border=0B1F35&amp;stroke=204364&amp;ring=65B9FF&amp;fire=65B9FF&amp;currStreakNum=E6F3FF&amp;sideNums=B7DFFF&amp;currStreakLabel=8CC9FF&amp;sideLabels=8CC9FF&amp;dates=91AEC8&amp;excludeDaysLabel=91AEC8&amp;hide_border=true&amp;border_radius=14&amp;card_width=760&amp;timezone=Asia%2FHo_Chi_Minh&amp;disable_animations=true">
+      <img width="100%" src="https://streak-stats.demolab.com?user=KhoaDoesTech&amp;background=F5FAFF&amp;border=F5FAFF&amp;stroke=D4E3F0&amp;ring=2F80ED&amp;fire=2F80ED&amp;currStreakNum=17324F&amp;sideNums=285578&amp;currStreakLabel=2563A8&amp;sideLabels=2563A8&amp;dates=597089&amp;excludeDaysLabel=597089&amp;hide_border=true&amp;border_radius=14&amp;card_width=760&amp;timezone=Asia%2FHo_Chi_Minh&amp;disable_animations=true" alt="GitHub contributions, current streak, and longest streak for KhoaDoesTech">
     </picture>
   </a>
 </p>
 
-## Selected Writing
+## <img src="assets/icons/book.svg" width="24" height="24" align="absmiddle" alt=""> Selected Writing
 
 - [Thirteen services, one source of truth](https://doanhkhoa.tech/en/blog/transactional-outbox-thirteen-services) — Transactional outbox and inbox patterns for keeping microservices consistent. · *Architecture · Sep 21, 2026*
 - [Answers that cite their source](https://doanhkhoa.tech/en/blog/retrieval-augmented-answers-that-cite) — Building a RAG assistant that cites evidence and declines unsupported questions. · *AI Engineering · Sep 17, 2026*
