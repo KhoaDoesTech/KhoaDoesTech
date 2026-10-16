@@ -36,33 +36,22 @@ Backend-focused full-stack developer with strengths in secure identity systems, 
 <div align="center">
 
 <p><sub><b>Backend &amp; Languages</b></sub></p>
-<p>
-  <img src="assets/tech/go.svg" width="32" height="32" alt="Go">&nbsp;&nbsp;
-  <img src="assets/tech/typescript.svg" width="32" height="32" alt="TypeScript">&nbsp;&nbsp;
-  <img src="assets/tech/javascript.svg" width="32" height="32" alt="JavaScript">&nbsp;&nbsp;
-  <img src="assets/tech/nodejs.svg" width="32" height="32" alt="Node.js">&nbsp;&nbsp;
-  <img src="assets/tech/nestjs.svg" width="32" height="32" alt="NestJS">&nbsp;&nbsp;
-  <img src="assets/tech/kafka.svg" width="32" height="32" alt="Apache Kafka">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=golang,typescript,javascript,nodejs,nestjs,fiber,grpc,kafka&amp;perline=8&amp;theme=dark">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=golang,typescript,javascript,nodejs,nestjs,fiber,grpc,kafka&amp;perline=8&amp;theme=light" alt="Go, TypeScript, JavaScript, Node.js, NestJS, Fiber, gRPC, and Kafka">
+</picture>
 
 <p><sub><b>Data &amp; AI</b></sub></p>
-<p>
-  <img src="assets/tech/postgresql.svg" width="32" height="32" alt="PostgreSQL">&nbsp;&nbsp;
-  <img src="assets/tech/mysql.svg" width="32" height="32" alt="MySQL">&nbsp;&nbsp;
-  <img src="assets/tech/mongodb.svg" width="32" height="32" alt="MongoDB">&nbsp;&nbsp;
-  <img src="assets/tech/redis.svg" width="32" height="32" alt="Redis">&nbsp;&nbsp;
-  <img src="assets/tech/gemini.svg" width="32" height="32" alt="Google Gemini">&nbsp;&nbsp;
-  <img src="assets/tech/langchain.svg" width="32" height="32" alt="LangChain">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,gemini,chatgpt,langchain&amp;perline=7&amp;theme=dark">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis,gemini,chatgpt,langchain&amp;perline=7&amp;theme=light" alt="PostgreSQL, MySQL, MongoDB, Redis, Gemini, OpenAI, and LangChain">
+</picture>
 
 <p><sub><b>Frontend &amp; Tooling</b></sub></p>
-<p>
-  <img src="assets/tech/react.svg" width="32" height="32" alt="React">&nbsp;&nbsp;
-  <img src="assets/tech/vite.svg" width="32" height="32" alt="Vite">&nbsp;&nbsp;
-  <img src="assets/tech/tanstack.svg" width="32" height="32" alt="TanStack Query">&nbsp;&nbsp;
-  <img src="assets/tech/docker.svg" width="32" height="32" alt="Docker">&nbsp;&nbsp;
-  <img src="assets/tech/gitlab.svg" width="32" height="32" alt="GitLab">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tanstack,docker,gitlab,playwright&amp;perline=6&amp;theme=dark">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tanstack,docker,gitlab,playwright&amp;perline=6&amp;theme=light" alt="React, Vite, TanStack Query, Docker, GitLab CI/CD, and Playwright">
+</picture>
 
 </div>
 
